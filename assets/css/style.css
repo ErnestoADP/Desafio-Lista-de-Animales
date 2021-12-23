@@ -1,0 +1,9 @@
+form {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.borde {
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 10px;
+}
